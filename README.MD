@@ -23,5 +23,3 @@ HqllrAI delivers fact-first responses with clear provenance. Personas tailor lan
 - [ ] Provenance UI (hashes, sources)
 - [ ] Early access SDKs
 
-## License
-- Source-available preview license; commercial use requires agreement.
